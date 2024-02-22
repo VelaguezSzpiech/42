@@ -1,0 +1,2 @@
+./ex00/ft_strlen.c: Error! Error: PREPROC_NO_SPACE (line: 13, col: 9): Missing space after preprocessor directive
+./ex00/ft_swap.c: Error! Error: PREPROC_NO_SPACE (line: 13, col: 9): Missing space after preprocessor directive Error: NL_AFTER_PREPROC (line: 14, col: 1): Preprocessor statement must be followed by a newline
